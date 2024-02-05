@@ -7,8 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2024, Endarlani</copyright>
-    <lastBuildDate>Mon, 05 Feb 2024 18:08:25 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 05 Feb 2024 18:41:26 +0700</lastBuildDate>
     <atom:link href="https://endarlani.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Showcasing Web Scrapping</title>
+      <link>https://endarlani.com/posts/showcasing-web-scrapping/</link>
+      <pubDate>Mon, 05 Feb 2024 18:41:26 +0700</pubDate>
+      <guid>https://endarlani.com/posts/showcasing-web-scrapping/</guid>
+      <description>Membuat sebuah situs web untuk menampilkan hasil dari data scraping adalah ide yang bagus, terutama jika Anda ingin menunjukkan kemampuan dalam pengumpulan dan analisis data. Berikut adalah beberapa ide untuk situs web yang dapat menampilkan hasil data scraping Anda:&#xA;Dashboard Analitik:&#xA;Buatlah sebuah dashboard interaktif yang menampilkan data yang telah Anda kumpulkan dan olah. Ini bisa mencakup grafik, tabel, dan visualisasi data lainnya. Contoh: Dashboard yang menampilkan tren harga produk dari berbagai situs e-commerce.</description>
+    </item>
     <item>
       <title>Mastering the Art of Earning From Upwork</title>
       <link>https://endarlani.com/posts/mastering-the-art-of-earning-from-upwork/</link>
