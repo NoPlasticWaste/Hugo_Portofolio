@@ -1,7 +1,7 @@
 +++
 title = 'Hugo Static Web Using Firebase'
 date = 2024-02-05T18:03:12+07:00
-draft = true
+draft = false
 +++
 
 In the dynamic world of web development, it's crucial to stay ahead of
