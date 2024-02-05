@@ -24,8 +24,8 @@ copyright = "&copy; Copyright 2024, Endarlani"
     weight = -100
   [[menu.main]]
     identifier = "categories"
-    name = "Video"
-    title = "Video"
+    name = "Gallery"
+    title = "Gallery"
     url = "/categories/"
     weight = -90
 
@@ -49,8 +49,8 @@ copyright = "&copy; Copyright 2024, Endarlani"
     fa_icon = "fab fa-linkedin-in fa-1x"
     href = "https://www.linkedin.com/in/endarlani/"
   [[params.social]]
-    fa_icon = "fab fa-upwork fa-1x" 
-    href = ""
+    fa_icon = "fab fa-youtube fa-1x" 
+    href = "https://www.youtube.com/@vivienendarlani7809"
   [[params.social]]
     fa_icon = "fas fa-envelope fa-1x"
     href = "mailto: endarlan11@gmail.com"
