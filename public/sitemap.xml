@@ -2,22 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://endarlani.com/articles/</loc>
+    <lastmod>2024-02-05T18:41:26+07:00</lastmod>
+  </url><url>
     <loc>https://endarlani.com/</loc>
     <lastmod>2024-02-05T18:41:26+07:00</lastmod>
   </url><url>
-    <loc>https://endarlani.com/posts/</loc>
+    <loc>https://endarlani.com/articles/showcasing-web-scrapping/</loc>
     <lastmod>2024-02-05T18:41:26+07:00</lastmod>
   </url><url>
-    <loc>https://endarlani.com/posts/showcasing-web-scrapping/</loc>
-    <lastmod>2024-02-05T18:41:26+07:00</lastmod>
-  </url><url>
-    <loc>https://endarlani.com/posts/mastering-the-art-of-earning-from-upwork/</loc>
+    <loc>https://endarlani.com/articles/mastering-the-art-of-earning-from-upwork/</loc>
     <lastmod>2024-02-05T18:08:25+07:00</lastmod>
   </url><url>
-    <loc>https://endarlani.com/posts/hugo-static-web-using-firebase/</loc>
+    <loc>https://endarlani.com/articles/hugo-static-web-using-firebase/</loc>
     <lastmod>2024-02-05T18:03:12+07:00</lastmod>
   </url><url>
+    <loc>https://endarlani.com/about/kontak/</loc>
+  </url><url>
+    <loc>https://endarlani.com/showcase/dashboard-gallery/</loc>
+  </url><url>
+    <loc>https://endarlani.com/about/</loc>
+  </url><url>
     <loc>https://endarlani.com/categories/</loc>
+  </url><url>
+    <loc>https://endarlani.com/showcase/</loc>
   </url><url>
     <loc>https://endarlani.com/tags/</loc>
   </url>

@@ -11,24 +11,38 @@
     <atom:link href="https://endarlani.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Showcasing Web Scrapping</title>
-      <link>https://endarlani.com/posts/showcasing-web-scrapping/</link>
+      <link>https://endarlani.com/articles/showcasing-web-scrapping/</link>
       <pubDate>Mon, 05 Feb 2024 18:41:26 +0700</pubDate>
-      <guid>https://endarlani.com/posts/showcasing-web-scrapping/</guid>
+      <guid>https://endarlani.com/articles/showcasing-web-scrapping/</guid>
       <description>Membuat sebuah situs web untuk menampilkan hasil dari data scraping adalah ide yang bagus, terutama jika Anda ingin menunjukkan kemampuan dalam pengumpulan dan analisis data. Berikut adalah beberapa ide untuk situs web yang dapat menampilkan hasil data scraping Anda:&#xA;Dashboard Analitik:&#xA;Buatlah sebuah dashboard interaktif yang menampilkan data yang telah Anda kumpulkan dan olah. Ini bisa mencakup grafik, tabel, dan visualisasi data lainnya. Contoh: Dashboard yang menampilkan tren harga produk dari berbagai situs e-commerce.</description>
     </item>
     <item>
       <title>Mastering the Art of Earning From Upwork</title>
-      <link>https://endarlani.com/posts/mastering-the-art-of-earning-from-upwork/</link>
+      <link>https://endarlani.com/articles/mastering-the-art-of-earning-from-upwork/</link>
       <pubDate>Mon, 05 Feb 2024 18:08:25 +0700</pubDate>
-      <guid>https://endarlani.com/posts/mastering-the-art-of-earning-from-upwork/</guid>
+      <guid>https://endarlani.com/articles/mastering-the-art-of-earning-from-upwork/</guid>
       <description>Introduction: In this digital age, the opportunity to work remotely and connect with clients from across the globe has become increasingly prevalent. Upwork, a leading freelance platform, has empowered countless individuals to showcase their skills and monetize their expertise. However, the key to successfully making money from Upwork lies in mastering several essential strategies. In this article, we will delve into the secrets of mastering this platform and unlocking your potential to earn a substantial income.</description>
     </item>
     <item>
       <title>Hugo Static Web Using Firebase</title>
-      <link>https://endarlani.com/posts/hugo-static-web-using-firebase/</link>
+      <link>https://endarlani.com/articles/hugo-static-web-using-firebase/</link>
       <pubDate>Mon, 05 Feb 2024 18:03:12 +0700</pubDate>
-      <guid>https://endarlani.com/posts/hugo-static-web-using-firebase/</guid>
+      <guid>https://endarlani.com/articles/hugo-static-web-using-firebase/</guid>
       <description>In the dynamic world of web development, it&amp;rsquo;s crucial to stay ahead of the game by adopting the latest technologies and tools. One such powerful combination is Hugo static web and Firebase, which offers a seamless and efficient way to develop websites. In this article, we will explore the benefits and features of both Hugo and Firebase, and how they work together to create outstanding static websites.&#xA;Before diving into the technical details, let&amp;rsquo;s understand what Hugo and Firebase are individually.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://endarlani.com/about/kontak/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://endarlani.com/about/kontak/</guid>
+      <description>Ini kontak saya.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://endarlani.com/showcase/dashboard-gallery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://endarlani.com/showcase/dashboard-gallery/</guid>
+      <description>Dashboard.</description>
     </item>
   </channel>
 </rss>
