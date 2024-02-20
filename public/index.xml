@@ -24,6 +24,13 @@
       <description>Introduction: In this digital age, the opportunity to work remotely and connect with clients from across the globe has become increasingly prevalent. Upwork, a leading freelance platform, has empowered countless individuals to showcase their skills and monetize their expertise. However, the key to successfully making money from Upwork lies in mastering several essential strategies. In this article, we will delve into the secrets of mastering this platform and unlocking your potential to earn a substantial income.</description>
     </item>
     <item>
+      <title>About Me</title>
+      <link>https://endarlani.com/about/</link>
+      <pubDate>Mon, 05 Feb 2024 18:03:12 +0700</pubDate>
+      <guid>https://endarlani.com/about/</guid>
+      <description>Hi there 👋 I&amp;rsquo;m Vivien, a software engineer.</description>
+    </item>
+    <item>
       <title>Hugo Static Web Using Firebase</title>
       <link>https://endarlani.com/articles/hugo-static-web-using-firebase/</link>
       <pubDate>Mon, 05 Feb 2024 18:03:12 +0700</pubDate>
@@ -31,18 +38,11 @@
       <description>In the dynamic world of web development, it&amp;rsquo;s crucial to stay ahead of the game by adopting the latest technologies and tools. One such powerful combination is Hugo static web and Firebase, which offers a seamless and efficient way to develop websites. In this article, we will explore the benefits and features of both Hugo and Firebase, and how they work together to create outstanding static websites.&#xA;Before diving into the technical details, let&amp;rsquo;s understand what Hugo and Firebase are individually.</description>
     </item>
     <item>
-      <title></title>
-      <link>https://endarlani.com/about/kontak/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://endarlani.com/about/kontak/</guid>
-      <description>Ini kontak saya.</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://endarlani.com/showcase/dashboard-gallery/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://endarlani.com/showcase/dashboard-gallery/</guid>
-      <description>Dashboard.</description>
+      <title>Showcase</title>
+      <link>https://endarlani.com/showcase/</link>
+      <pubDate>Mon, 05 Feb 2024 18:03:12 +0700</pubDate>
+      <guid>https://endarlani.com/showcase/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
